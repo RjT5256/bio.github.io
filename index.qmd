@@ -20,16 +20,16 @@ about:
 
 ## About me
 
-I'm a PhD student in [Your Department] at [Your University], advised by [Advisor Name]. My work sits at the intersection of [area one] and [area two], where I study [one-sentence plain-language description of what you do and why it matters].
+Currently work for an AEC solutions company called BHC LLP, I specialize in deep learning workflows that help solve GIS related problems for municipalities around North Texas and my research focuses mostly on using machine learning and deep learning to solve spatially related problems.
 
-Before starting my PhD, I earned my B.S. in [field] from [university], where I worked on [brief note about undergrad research or industry experience].
+Before starting my PhD, I earned my M.S. in Geospatial Information Sciences form UTD, where I worked on creating deep learning packages for asset management with a focus on drone imagery.
 
 ## Research
 
 My current research focuses on:
 
-- **[Project or theme 1]** — one or two sentences describing the question you're asking and the approach you're taking.
-- **[Project or theme 2]** — one or two sentences on a second thread of work, a collaboration, or a methods interest.
+- **[Pixel Classification of Distress Features]** — Leveraging the tools built into ArcGIS Pro, making classifiers for different distress features (i.e potholes, linear cracking, alligator cracking) in asphalt roads. 
+- **[Object Detection and Water Modeling]** — Connecting existing GIS hydrology related layers to form 3D models that can accurately display anomalies in an intuitive way.
 
 ## Education
 

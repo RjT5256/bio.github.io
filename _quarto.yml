@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
 
 website:
   title: "Robert Tulmen"
@@ -15,7 +15,7 @@ website:
         text: Resume
     right:
       - icon: envelope
-        href: mailto:you@university.edu
+        href: mailto:rjt180004@utdallas.edu
       - icon: github
         href: https://github.com/RjT5256
   page-footer:
