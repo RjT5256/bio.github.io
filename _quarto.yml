@@ -11,8 +11,9 @@ website:
     left:
       - href: index.qmd
         text: About
-      - href: resume.qmd
+      - href: assets/resume.pdf
         text: Resume
+        target: _blank
     right:
       - icon: envelope
         href: mailto:rjt180004@utdallas.edu

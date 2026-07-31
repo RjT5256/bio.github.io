@@ -13,25 +13,26 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/RjT5256
-    - icon: file-earmark-person
-      text: Resume
-      href: resume.qmd
+    - icon: Arc
+      text: ArcGIS Online
+      href: https://utdepps.maps.arcgis.com/home/index.html
 ---
 
 ## About me
 
-Currently work for an AEC solutions company called BHC LLP, I specialize in deep learning workflows that help solve GIS related problems for municipalities around North Texas and my research focuses mostly on using machine learning and deep learning to solve spatially related problems.
+Currently work for an AEC solutions company called BHC LLP, I specialize in deep learning workflows that help solve GIS related problems for municipalities around North Texas and my research focuses mainly on creating deep learning packages for asset management with a focus on drone imagery.
 
-Before starting my PhD, I earned my M.S. in Geospatial Information Sciences form UTD, where I worked on creating deep learning packages for asset management with a focus on drone imagery.
+Before starting my PhD, I earned my M.S. in Geospatial Information Sciences form UTD, where I learned to create 3D visualizations alongside my maps using many of the tools developed by the leading provider of GIS software ESRI.
 
 ## Research
 
 My current research focuses on:
 
-- **[Pixel Classification of Distress Features]** — Leveraging the tools built into ArcGIS Pro, making classifiers for different distress features (i.e potholes, linear cracking, alligator cracking) in asphalt roads. 
-- **[Object Detection and Water Modeling]** — Connecting existing GIS hydrology related layers to form 3D models that can accurately display anomalies in an intuitive way.
+- **Pixel Classification of Distress Features** — Leveraging the tools built into ArcGIS Pro, making classifiers for different distress features (i.e potholes, linear cracking, alligator cracking) in asphalt roads.
+- **Object Detection and Water Modeling** — Connecting existing GIS hydrology related layers to form 3D models that can accurately display anomalies in an intuitive way.
 
 ## Education
 
 **Ph.D. in Geospatial Sciences** · The University of Texas at Dallas" · 2026–present
-**M.S. in [Geospatial Information Sciences]** · The University of Texas at Dallas" · 2024–2026
+
+**M.S. in Geospatial Information Sciences** · The University of Texas at Dallas" · 2024–2026
