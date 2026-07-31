@@ -1,0 +1,37 @@
+---
+title: "Robert Tulmen"
+subtitle: "PhD Student · Geospatial Sciences · UTD"
+about:
+  template: trestles
+  image: assets/headshot.jpg
+  image-shape: round
+  image-width: 12em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:rjt180004@utdallas.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/RjT5256
+    - icon: file-earmark-person
+      text: Resume
+      href: resume.qmd
+---
+
+## About me
+
+I'm a PhD student in [Your Department] at [Your University], advised by [Advisor Name]. My work sits at the intersection of [area one] and [area two], where I study [one-sentence plain-language description of what you do and why it matters].
+
+Before starting my PhD, I earned my B.S. in [field] from [university], where I worked on [brief note about undergrad research or industry experience].
+
+## Research
+
+My current research focuses on:
+
+- **[Project or theme 1]** — one or two sentences describing the question you're asking and the approach you're taking.
+- **[Project or theme 2]** — one or two sentences on a second thread of work, a collaboration, or a methods interest.
+
+## Education
+
+**Ph.D. in Geospatial Sciences** · The University of Texas at Dallas" · 2026–present
+**M.S. in [Geospatial Information Sciences]** · The University of Texas at Dallas" · 2024–2026

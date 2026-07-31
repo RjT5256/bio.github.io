@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Robert Tulmen"
+  description: "PhD Student · The School of Economic, Political and Policy Sciences · The University of Texas at Dallas"
+  navbar:
+    background: "#1b2a41"
+    foreground: "#f5f2ec"
+    left:
+      - href: index.qmd
+        text: About
+      - href: resume.qmd
+        text: Resume
+    right:
+      - icon: envelope
+        href: mailto:you@university.edu
+      - icon: github
+        href: https://github.com/RjT5256
+  page-footer:
+    center: "© 2026 Robert Tulmen · Built with Quarto"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false
+    page-layout: article
+    link-external-newwindow: true

@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Robert Tulmen",
+    "section": "",
+    "text": "I’m a PhD student in [Your Department] at [Your University], advised by [Advisor Name]. My work sits at the intersection of [area one] and [area two], where I study [one-sentence plain-language description of what you do and why it matters].\nBefore starting my PhD, I earned my B.S. in [field] from [university], where I worked on [brief note about undergrad research or industry experience]."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Robert Tulmen",
+    "section": "",
+    "text": "I’m a PhD student in [Your Department] at [Your University], advised by [Advisor Name]. My work sits at the intersection of [area one] and [area two], where I study [one-sentence plain-language description of what you do and why it matters].\nBefore starting my PhD, I earned my B.S. in [field] from [university], where I worked on [brief note about undergrad research or industry experience]."
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Robert Tulmen",
+    "section": "Research",
+    "text": "Research\nMy current research focuses on:\n\n[Project or theme 1] — one or two sentences describing the question you’re asking and the approach you’re taking.\n[Project or theme 2] — one or two sentences on a second thread of work, a collaboration, or a methods interest.\n\nYou can find my publications on Google Scholar and a full record of my experience in my resume."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Robert Tulmen",
+    "section": "Education",
+    "text": "Education\nPh.D. in [Field] · Your University · 2024–present B.S. in [Field] · Your Undergrad University · 2020–2024"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
